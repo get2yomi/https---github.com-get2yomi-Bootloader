@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/dart projects"
+		},
+		{
+			"name": "Project test",
+			"path": ".."
+		},
+		{
+			"name": "Bootloader",
+			"path": "../../../../../platformio repository/Bootloader/Bootloader"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f401xe.h": "c",
+			"system_stm32f4xx.h": "c"
+		}
+	}
+}
