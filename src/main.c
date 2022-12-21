@@ -10,6 +10,11 @@ int main(){
 
 bootloader_main();
 
+while(1){
+
+}
+
+
 
 
 }
