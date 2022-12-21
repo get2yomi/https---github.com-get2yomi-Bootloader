@@ -8,8 +8,8 @@
 			"path": "."
 		},
 		{
-			"name": "Bootloader",
-			"path": "../../../../platformio repository/Bootloader/Bootloader"
+			"name": "bootloader_new",
+			"path": "bootloader_new"
 		}
 	],
 	"settings": {
