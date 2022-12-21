@@ -1,0 +1,46 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/user/Documents/PlatformIO/Projects/Project test/include",
+                "c:/Users/user/Documents/PlatformIO/Projects/Project test/src",
+                "C:/Users/user/.platformio/packages/framework-cmsis/CMSIS/Include",
+                "C:/Users/user/.platformio/packages/framework-cmsis-stm32f4/Include",
+                "c:/Users/user/Documents/PlatformIO/Projects/Project test/.pio/libdeps/genericSTM32F407VET6/Unity/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/user/Documents/PlatformIO/Projects/Project test/include",
+                    "c:/Users/user/Documents/PlatformIO/Projects/Project test/src",
+                    "C:/Users/user/.platformio/packages/framework-cmsis/CMSIS/Include",
+                    "C:/Users/user/.platformio/packages/framework-cmsis-stm32f4/Include",
+                    "c:/Users/user/Documents/PlatformIO/Projects/Project test/.pio/libdeps/genericSTM32F407VET6/Unity/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60105",
+                "STM32F407xx",
+                "ARDUINO_STM32GenericF407VET6",
+                "STM32F4",
+                "F_CPU=168000000L",
+                ""
+            ],
+            "compilerPath": "C:/Users/user/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m4",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

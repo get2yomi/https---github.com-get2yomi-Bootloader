@@ -12,8 +12,8 @@
 			"path": "bootloader_new"
 		},
 		{
-			"name": "bootloader_new-1",
-			"path": "bootloader_new-1"
+			"name": "bootloader_new",
+			"path": "../bootloader_new"
 		}
 	],
 	"settings": {
